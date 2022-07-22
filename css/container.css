@@ -1,0 +1,10 @@
+.container {
+    max-width: 800px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.container__header {
+    text-align: center;
+    color: #153243;
+}

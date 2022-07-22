@@ -1,0 +1,13 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::before, ::after {
+    box-sizing: inherit;
+}
+
+.body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url("../images/adrian-infernus-GLf7bAwCdYg-unsplash\ \(1\).jpg");
+    background-position: center;
+}

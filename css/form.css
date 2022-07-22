@@ -1,0 +1,27 @@
+.form__labelText {
+    width: 100%;
+    max-width: 180px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.form__field {
+    border: 2px solid #ccc;
+    width: 100%;
+    max-width: 400px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.form__field--select {
+    background-color: rgba(204, 204, 204, 0.66);
+}
+
+.form__fieldset {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px 0;
+    background-color: #284B63;
+    color: #EEF0EB;
+}
